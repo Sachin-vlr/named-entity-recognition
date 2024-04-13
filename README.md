@@ -35,9 +35,9 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## PROGRAM
 
-Developed by: Vinush.CV
+Developed by : SACHIN.C
 
-Reg no: 212222230176
+Reg no: 212222230125
 
 ```python
 
