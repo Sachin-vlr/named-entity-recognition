@@ -166,9 +166,11 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/01b6b6d5-9856-4d6e-9417-c1ed9e5eeb4f)
 
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/3edd3914-9268-4d9d-8a37-70b6f713b4c4)
+
 ### Sample Text Prediction
 
-![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/3edd3914-9268-4d9d-8a37-70b6f713b4c4)
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/b439d5f1-d9b6-40b2-8a9a-94eeb9bf4a15)
 
 ## RESULT
 
