@@ -164,13 +164,13 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/01b6b6d5-9856-4d6e-9417-c1ed9e5eeb4f)
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/3e92c820-5a8e-4b45-86a9-ca365e41467e)
 
-![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/3edd3914-9268-4d9d-8a37-70b6f713b4c4)
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/d34fa14e-40cb-4070-bb1a-074ee467ffc6)
 
 ### Sample Text Prediction
 
-![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/b439d5f1-d9b6-40b2-8a9a-94eeb9bf4a15)
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/ceda5e18-83e5-44e9-b722-366749f00fa4)
 
 ## RESULT
 
