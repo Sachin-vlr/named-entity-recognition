@@ -14,8 +14,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 4.Bidirectional Recurrent Neural Networks connect two hidden layers of opposite directions to the same output.
 
-![alt text](image-3.png)
-
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/f6148fdb-c76a-4bd0-a036-65d5d991b0e3)
 
 ## DESIGN STEPS
 
@@ -165,11 +164,11 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/01b6b6d5-9856-4d6e-9417-c1ed9e5eeb4f)
 
 ### Sample Text Prediction
 
-
+![image](https://github.com/Sachin-vlr/named-entity-recognition/assets/113497666/3edd3914-9268-4d9d-8a37-70b6f713b4c4)
 
 ## RESULT
 
